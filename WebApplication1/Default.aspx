@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        R1! Edit 2 - for branch
+        R1! Edit 2 - for branch (default_edits)
     </div>
     </form>
 </body>
